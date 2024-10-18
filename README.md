@@ -1,6 +1,4 @@
-Here’s your README written for easy copy-pasting:
 
----
 
 # Rinterio: A Responsive Portfolio Website for Architectural Designs
 
