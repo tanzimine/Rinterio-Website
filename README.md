@@ -55,6 +55,6 @@ Check out the live version of the website [here](https://tanzimine.github.io/Rin
 
 ## Contact
 
-For any inquiries or suggestions, please reach out at [your-email@example.com].
+For any inquiries or suggestions, please reach out at [tkhandak@students.kennesaw.edu].
 
 ---
